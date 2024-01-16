@@ -32,23 +32,8 @@ Make sure that the script acts the same on each sheet.
 Create a new repository for this project called VBA-challenge. 
 Inside the new repository that you just created, add any VBA files that you use for this assignment. These will be the main scripts to run for each analysis.
 
- Prerequisites
-What things do you need to install the software and how to install them
-
-Give examples
-Installing
-A step-by-step series of examples that tell you how to get a development environment running
-
-Say what the step will be
-
-Give the example
-And repeat
-
-
-
-
-Authors
+## Authors
 Vivek Sarraf
 
-Acknowledgments
+## Acknowledgments
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
