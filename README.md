@@ -17,6 +17,8 @@ Create a script that will loop through all the stocks for one year and output th
 
 The result should look as follows.
 
+![image](https://github.com/vivsarraf/VBA-challenge/assets/135401654/f3159b10-54bf-44e8-b1b8-ac8bd5871871)
+
 
 
 
